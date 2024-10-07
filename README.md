@@ -37,7 +37,7 @@ To get started with the Dice Roll Game on your local machine, follow these steps
     ```bash
     cd Dice-Roll
    
-3.  **Install the Dependencies:**:
+3.  **Install the Dependencies**:
     ```bash
     npm install
    
