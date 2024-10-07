@@ -11,7 +11,7 @@ Welcome to the **Dice Roll Game**! This fun and interactive game allows you to r
 
 ## Features
 
-- 🎲 Roll one or two dice
+- 🎲 Roll dice
  with a click!
 - 📈 View the results instantly on the screen.
 - 🌟 Simple and intuitive user interface.
