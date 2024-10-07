@@ -46,4 +46,4 @@ To get started with the Dice Roll Game on your local machine, follow these steps
      npm run dev
    
 5. **Play the Game**:
-   Open your browser and load the local host
+   Open your browser and load the local host.
